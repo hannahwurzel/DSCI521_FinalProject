@@ -41,4 +41,3 @@ Python
 
 How to Use:
 Download both the notebook and the dataset. Run all cells in the notebook.
-Presentation in folder that explains the project, data, and interpretation.
